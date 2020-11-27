@@ -1,2 +1,2 @@
-alert("El típico Hola Mundo! / EDITADO");
+alert("Hola Mundo");
 console.log("cambios en el archivo");
